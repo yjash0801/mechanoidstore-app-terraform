@@ -45,3 +45,7 @@ variable "priority" {
 variable "listener_arn" {
   
 }
+
+variable "app_version" {
+  
+}
